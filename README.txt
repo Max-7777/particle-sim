@@ -51,3 +51,8 @@ Applied force: Applied acceleration to particles
 
 Lifetime size: Sliders controlling size of particles over particle lifetime (left -> right)
 Lifetime opacity: Sliders controlling opacity of particles over particle lifetime (left -> right)
+
+https://github.com/Max-7777
+
+https://processing.org/
+
