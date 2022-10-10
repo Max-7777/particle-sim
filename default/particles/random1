@@ -1,0 +1,41 @@
+1,0,Draw wireframe:,checkbox,false
+1,1,Follow mouse:,checkbox,false
+7,0,Pulse:,checkbox,false
+3,0,Spawn position:,textbox,300,300
+3,1,Vel. range:,textbox,0,1000
+4,0,Spawn shape size:,textbox,2000,1000
+4,1,Vel. angle:,textbox,0
+5,0,Spawn time range:,textbox,1,1000
+5,1,Vel. spread:,textbox,6
+6,0,Particle lifetime:,textbox,2000
+6,1,Vel. friction:,textbox,1
+7,1,Vel. rotate:,textbox,10
+8,0,Reset time:,textbox,2000
+8,1,Rotate friction:,textbox,1
+9,0,Spawn amount:,textbox,100
+9,1,Applied force:,textbox,0,1000
+12,0,Size range:,textbox,1,50
+13,0,Color:,textbox,200,200,200
+14,0,Color range:,textbox,300,300,300
+15,0,Opacity:,textbox,255
+16,0,Sprite:,textbox,triangle.png
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.7941611
+0.19462945
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.18896675
