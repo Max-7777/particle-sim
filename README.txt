@@ -1,7 +1,19 @@
-Particle Simulator
+To run:
 
-Make core.jar a dependency/library
-Run Main
+Intellij:
+Open project 
+Define SDK as ver. 16
+Settings -> Invalidate caches (invalidate & restart)
+Run main
+
+Eclipse:
+Open Project 
+Run main
+
+Make core.jar a dependency/library if not already
+
+
+Particle Simulator:
 
 Load: to load file from 'default/particles' click load button and type in name of file (ex: 'bubbles1')
 Save: to save to 'default/particles' click save button and type in desired file name (ex: 'bubbles2')
@@ -9,7 +21,6 @@ Save: to save to 'default/particles' click save button and type in desired file 
 Add pngs to 'default/shapes' to be able to load in that image for particle sprites
 
 'u': Toggle ui
-
 
 Settings Info:
 
